@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Lora&size=28&duration=3000&pause=800&color=989FCE&center=true&vCenter=true&width=600&lines=Hi!+I%27m+Sarthak" />
 </h1>
-<h3 align="center">CS Student @ TMU | AI & Data Science Enthusiast | Future ML Engineer</h3>
+<h3 align="center">CS Student @ TMU | AI & Data Science Enthusiast </h3>
 
 ---
 
