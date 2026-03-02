@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,elixir,r,java,tableau,excel,numpy,pandas,scikitlearn,matplotlib,seaborn,pytorch,tensorflow,postgresql,oracle,snowflake,docker,kubernetes,azure,googlecloud,git,github,flask,fastapi,figma,vercel,streamlit,netlify&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,elixir,r,java,tableau,excel,numpy,pandas,scikitlearn,matplotlib,seaborn,pytorch,tensorflow,opencv,pygame,postgresql,oracle,snowflake,docker,kubernetes,azure,googlecloud,git,github,flask,fastapi,figma,vercel,streamlit,netlify,duckdb,agno,langchain,pydantic,ai&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
 </p>
 
 <br/>
