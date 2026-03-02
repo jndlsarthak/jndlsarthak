@@ -28,3 +28,22 @@ Here are some ideas to get you started:
 - 📚 Currently learning about **ML pipelines & model deployment**
 - 🌍 Adapting, learning, and growing every day
 - 💿 Open to collaborate on projects, learn new skills & teaming up for hackathons
+
+
+<br/>
+<h3 align="center">Tech Stack:</h3>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,elixir,r,java,tableau,excel,numpy,pandas,scikitlearn,matplotlib,seaborn,pytorch,tensorflow,postgresql,oracle,snowflake,docker,kubernetes,azure,googlecloud,git,github,flask,fastapi,figma,vercel,streamlit,netlify&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
+</p>
+
+<br/>
+<h3 align="center">Get in Touch: </h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jndlsarthak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <!-- <a href="https://pawelszostak.vercel.app/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a> -->
+  &nbsp;&nbsp;
+  <a href="mailto:sarthak38j@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/></a>
+</div>
