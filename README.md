@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 - 💿 Open to collaborate on projects, learn new skills & teaming up for hackathons
 
 
-<br/>
-<h3 align="center">Tech Stack:</h3>
+<!-- <br/> -->
+<!-- <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,elixir,r,java,tableau,excel,numpy,pandas,scikitlearn,matplotlib,seaborn,pytorch,tensorflow,opencv,pygame,postgresql,oracle,snowflake,docker,kubernetes,azure,googlecloud,git,github,flask,fastapi,figma,vercel,streamlit,netlify,duckdb,agno,langchain,pydantic,ai&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
-</p>
+</p> -->
 
-<br/>
+<!-- <br/> -->
 <h3 align="center">Get in Touch: </h3>
 
 <div align="center">
