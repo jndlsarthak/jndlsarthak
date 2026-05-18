@@ -13,21 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Lora&size=28&duration=3000&pause=800&color=4993f7&center=true&vCenter=true&width=600&lines=Hey+!+I%27m+Sarthak" />
 </h1>
-<h3 align="center">Computer Science Student @ TMU | AI & Data Science Enthusiast </h3>
+<h3 align="center" font=Lora>Computer Science Student @ TMU | AI & Data Science Enthusiast </h3> -->
 
----
+
+<h2>👋🏻 Hi! I'm Sarthak</h2>
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **Toronto Metropolitan University**
-- 🤖 Passionate about **AI, Machine Learning & Data Science**
-- 🛠️ Love building real-world, practical tech projects
-- 📚 Currently learning about **ML pipelines & model deployment**
-- 🌍 Adapting, learning, and growing every day
-- 💿 Open to collaborate on projects, learn new skills & teaming up for hackathons
+- Computer Science student at **Toronto Metropolitan University**
+- Interests: **AI, Machine Learning & Data Science**
+
+### 🔬 Experiences
+- Analyst at Canada Life
+- Software Engineer Intern at IDRAK Technologies
+- Data Science Intern at Rubius
 
 
 <!-- <br/> -->
