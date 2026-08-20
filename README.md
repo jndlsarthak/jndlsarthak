@@ -1,51 +1,43 @@
 
-<!--
-**jndlsarthak/jndlsarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Lora&size=28&duration=3000&pause=800&color=4993f7&center=true&vCenter=true&width=600&lines=Hey+!+I%27m+Sarthak" />
-</h1>
-<h3 align="center" font=Lora>Computer Science Student @ TMU | AI & Data Science Enthusiast </h3> -->
 
 
-<h2>👋🏻 Hi! I'm Sarthak</h2>
 
-### 🧑‍💻 About Me
-
-- Computer Science student at **Toronto Metropolitan University**
-- Interests: **AI, Machine Learning & Data Science**
-
-### 🔬 Experiences
-- Analyst at Canada Life
-- Software Engineer Intern at IDRAK Technologies
-- Data Science Intern at Rubius
-
-
-<!-- <br/> -->
-<!-- <h3 align="center">Tech Stack:</h3>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,elixir,r,java,tableau,excel,numpy,pandas,scikitlearn,matplotlib,seaborn,pytorch,tensorflow,opencv,pygame,postgresql,oracle,snowflake,docker,kubernetes,azure,googlecloud,git,github,flask,fastapi,figma,vercel,streamlit,netlify,duckdb,agno,langchain,pydantic,ai&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
-</p> -->
-
-<!-- <br/> -->
-<h3 align="center">Get in Touch: </h3>
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jndlsarthak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <!-- <a href="https://pawelszostak.vercel.app/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a> -->
-  &nbsp;&nbsp;
-  <a href="mailto:sarthak38j@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/></a>
+
+# Hey, I'm Sarthak 👋
+
+### CS Student · Developer · Builder
+
+<p>
+  <i>Turning ideas into things that actually work.</i>
+</p>
+
+<a href="sarthak-portfolio-pearl.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="www.linkedin.com/in/jndlsarthak">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sarthak.jindal@torontomu.ca">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
+
+<br>
+
+
+class Sarthak:
+    location = "Toronto, Canada 🇨🇦"
+    education = "Computer Science @ TMU"
+    
+    interests = [
+        "Product Management",
+        "Data & AI",
+        "Machine Learning",
+        "Building useful things"
+    ]
+
+    currently = "learning, building & figuring things out"
