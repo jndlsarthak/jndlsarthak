@@ -1,7 +1,3 @@
-
-
-
-
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
@@ -28,7 +24,7 @@
 
 <br>
 
-
+```python
 class Sarthak:
     location = "Toronto, Canada 🇨🇦"
     education = "Computer Science @ TMU"
