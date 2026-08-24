@@ -10,10 +10,10 @@
   <i>Turning ideas into things that actually work.</i>
 </p>
 
-<a href="sarthak-portfolio-pearl.vercel.app">
+<a href="https://sarthak-portfolio-pearl.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/jndlsarthak">
+<a href="https://www.linkedin.com/in/jndlsarthak">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sarthak.jindal@torontomu.ca">
